@@ -77,29 +77,6 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 
 
-📂 **Project Structure**
-
-HousingRentalSystem/
-│── assets/        # CSS, JS, Images
-
-│── config.php     # Database connection
-
-│── index.php      # Landing page
-
-│── register.php   # Registration page
-
-│── login.php      # Login page
-
-│── dashboard/     # Landlord dashboard
-
-│── tenant/        # Tenant functionalities
-
-│── database/      # SQL schema
-
-
-
-
-
 👨‍💻 Author
 
 **Uwizeye Magnifique**

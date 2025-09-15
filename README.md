@@ -78,5 +78,5 @@ HousingRentalSystem/
 Uwizeye Magnifique
 💼 Full-Stack Software Engineer | Problem Solver | Innovation Driver
 
-📧 Email: [your email here]
-🔗 GitHub: https://github.com/<your-username>
+📧 Email: uwizeyemagnifique@gmail.com
+🔗 GitHub: https://github.com/MagnifiqueUwizeye01

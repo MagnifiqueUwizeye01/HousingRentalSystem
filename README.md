@@ -71,7 +71,8 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 (Insert screenshot here)
 
-📂 Project Structure
+📂 **Project Structure**
+
 HousingRentalSystem/
 │── assets/        # CSS, JS, Images
 
@@ -89,11 +90,13 @@ HousingRentalSystem/
 
 │── database/      # SQL schema
 
+
+
 👨‍💻 Author
 
 **Uwizeye Magnifique**
 
-Full-Stack Software Engineer | Problem Solver | Innovation Driver
+Full-Stack Software Engineer 
 
 📧 Email: uwizeyemagnifique@gmail.com
 

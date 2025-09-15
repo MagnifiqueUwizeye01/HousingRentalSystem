@@ -10,11 +10,8 @@ A full-featured web application for managing housing rentals, built with HTML, C
 
 ✔️ Search & Filter – tenants can search houses by location, price, or size
 
-✔️ Booking Requests – tenants can request to rent properties
-
 ✔️ Rental Management Dashboard for landlords to track tenants and rentals
 
-✔️ Responsive UI – optimized for both desktop and mobile
 
 
 

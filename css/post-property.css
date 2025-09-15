@@ -1,0 +1,99 @@
+/* post-property.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: url('../uploads/dashboard-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #333;
+  }
+  
+  .form-wrapper {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    width: 90%;
+    max-width: 750px; /* Increased from 500px to 750px */
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+  
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #556B2F;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  form input,
+  form textarea,
+  form select {
+    width: 100%;
+    padding: 10px;
+    font-size: 0.95rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    outline: none;
+  }
+  
+  form textarea {
+    resize: vertical;
+  }
+  
+  .btn-submit {
+    width: 100%;
+    background-color: #6b8e23;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-submit:hover {
+    background-color: #556B2F;
+  }
+  
+  .btn-back {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    color: #556B2F;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .btn-back:hover {
+    text-decoration: underline;
+  }
+  
+  .toast {
+    background-color: #f0fff0;
+    border: 1px solid #8bc34a;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    color: #2e7d32;
+    text-align: center;
+    font-size: 0.95rem;
+  }
+  

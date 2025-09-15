@@ -56,7 +56,8 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 
 
-📸 Screenshots
+📸 **Screenshots**
+
 🔑 Login Page
 
 (Insert screenshot here)

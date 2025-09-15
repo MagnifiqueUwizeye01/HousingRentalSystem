@@ -16,7 +16,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
 
 ✔️ Responsive UI – optimized for both desktop and mobile
 
-🖥️ Technologies Used
+🖥️ **Technologies Used**
 
 Frontend: HTML5, CSS3, JavaScript
 
@@ -26,17 +26,17 @@ Database: MySQL
 
 Version Control: Git & GitHub
 
-🚀 Getting Started
-🔹 Prerequisites
+## Getting Started
 
-Install XAMPP
- or any PHP/MySQL server.
+🔹 **Prerequisites**
+
+Install XAMPP or any PHP/MySQL server.
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/HousingRentalSystem.git
+git clone https://github.com/MagnifiqueUwizeye01/HousingRentalSystem.git
 
-🔹 Setup
+🔹 **Setup**
 
 Move the project folder into your server’s htdocs (if using XAMPP).
 

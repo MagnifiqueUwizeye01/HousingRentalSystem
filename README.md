@@ -88,6 +88,7 @@ HousingRentalSystem/
 👨‍💻 Author
 
 **Uwizeye Magnifique**
+
 Full-Stack Software Engineer | Problem Solver | Innovation Driver
 
 📧 Email: uwizeyemagnifique@gmail.com

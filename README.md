@@ -59,9 +59,9 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 <img width="1920" height="919" alt="Image" src="https://github.com/user-attachments/assets/5b747735-5cad-493e-b6d1-30cb46bf24de" />
 
-📝 Register Page
+📝 Landing homepage Page
 
-(Insert screenshot here)
+<img width="1920" height="921" alt="Image" src="https://github.com/user-attachments/assets/1730a41f-b6ec-49dd-bd68-8898ff33d387" />
 
 🏘️ Property Listings
 

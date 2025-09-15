@@ -17,6 +17,8 @@ A full-featured web application for managing housing rentals, built with HTML, C
 ✔️ Responsive UI – optimized for both desktop and mobile
 
 
+
+
 🖥️ **Technologies Used**
 
 Frontend: HTML5, CSS3, JavaScript
@@ -26,6 +28,8 @@ Backend: PHP
 Database: MySQL
 
 Version Control: Git & GitHub
+
+
 
 
 ## Getting Started
@@ -50,6 +54,8 @@ Configure database connection in config.php.
 Open http://localhost/HousingRentalSystem in your browser.
 
 
+
+
 📸 Screenshots
 🔑 Login Page
 
@@ -71,6 +77,8 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 (Insert screenshot here)
 
+
+
 📂 **Project Structure**
 
 HousingRentalSystem/
@@ -89,6 +97,8 @@ HousingRentalSystem/
 │── tenant/        # Tenant functionalities
 
 │── database/      # SQL schema
+
+
 
 
 

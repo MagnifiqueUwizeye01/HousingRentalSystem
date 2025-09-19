@@ -50,7 +50,7 @@ Configure database connection in config.php.
 
 Open http://localhost/HousingRentalSystem in your browser.
 
-
+ 
 
 
 📸 **Screenshots**

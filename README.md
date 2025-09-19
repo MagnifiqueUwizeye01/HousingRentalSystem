@@ -30,7 +30,7 @@ Version Control: Git & GitHub
 
 
 ## Getting Started
-
+ 
 🔹 **Prerequisites**
 
 Install XAMPP or any PHP/MySQL server.

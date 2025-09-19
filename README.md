@@ -74,7 +74,7 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 📊 **Admin Dashboard**
 
-
+ 
 <img width="1920" height="927" alt="Image" src="https://github.com/user-attachments/assets/5a3b8303-bad1-4f6d-ad0e-10076b911e4a" />
 
 

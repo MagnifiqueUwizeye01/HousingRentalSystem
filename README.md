@@ -34,7 +34,7 @@ Version Control: Git & GitHub
 🔹 **Prerequisites**
 
 Install XAMPP or any PHP/MySQL server.
-
+ 
 Clone the repository:
 
 git clone https://github.com/MagnifiqueUwizeye01/HousingRentalSystem.git

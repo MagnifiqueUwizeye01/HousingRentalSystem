@@ -65,7 +65,7 @@ Open http://localhost/HousingRentalSystem in your browser.
 <img width="1920" height="921" alt="Image" src="https://github.com/user-attachments/assets/1730a41f-b6ec-49dd-bd68-8898ff33d387" />
 
 
-🏘️ **Property Listings**
+**Property Listings**
 
 
 <img width="1722" height="905" alt="Image" src="https://github.com/user-attachments/assets/0c2302ff-4dfb-4020-9e6d-dcf9d8f0b7ae" />

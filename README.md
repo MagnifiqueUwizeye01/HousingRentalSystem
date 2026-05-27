@@ -84,12 +84,12 @@ Open http://localhost/HousingRentalSystem in your browser.
 
 
 
-👨‍💻 Author
+Author
 
 **Uwizeye Magnifique**
 
 Full-Stack Software Engineer 
 
-📧 Email: uwizeyemagnifique@gmail.com
+Email: uwizeyemagnifique@gmail.com
 
 

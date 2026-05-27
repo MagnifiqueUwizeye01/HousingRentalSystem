@@ -15,7 +15,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
 
 
  
-**Technologies Used**
+**Technologies Used** 
  
 Frontend: HTML5, CSS3, JavaScript
 

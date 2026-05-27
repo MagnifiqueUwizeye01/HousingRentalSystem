@@ -41,7 +41,7 @@ git clone https://github.com/MagnifiqueUwizeye01/HousingRentalSystem.git
 
 **Setup**
 
-Move the project folder into your server’s htdocs (if using XAMPP). 
+Move the project folder into your server’s htdocs (if using XAMPP).  
  
 Import the SQL file from /database into your MySQL.
 

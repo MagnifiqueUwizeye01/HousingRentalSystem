@@ -39,7 +39,7 @@ Clone the repository:
 git clone https://github.com/MagnifiqueUwizeye01/HousingRentalSystem.git  
 
 
-🔹 **Setup**
+**Setup**
 
 Move the project folder into your server’s htdocs (if using XAMPP). 
  

@@ -11,7 +11,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
  Search & Filter – tenants can search houses by location, price, or size
 
  Rental Management Dashboard for landlords to track tenants and rentals     
-  
+   
 
 
  

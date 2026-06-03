@@ -23,7 +23,7 @@ Backend: PHP
 
 Database: MySQL
 
-Version Control: Git & GitHub 
+Version Control: Git & GitHub
 
 
  

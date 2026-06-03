@@ -32,7 +32,7 @@ Version Control: Git & GitHub
  
 **Prerequisites** 
 
-Install XAMPP or any PHP/MySQL server. 
+Install XAMPP or any PHP/MySQL server.  
  
 Clone the repository:
 

@@ -8,7 +8,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
     
  Property Listings – landlords can add, update, or remove properties
  
- Search & Filter – tenants can search houses by location, price, or size  
+ Search & Filter – tenants can search houses by location, price, or size   
 
  Rental Management Dashboard for landlords to track tenants and rentals        
    

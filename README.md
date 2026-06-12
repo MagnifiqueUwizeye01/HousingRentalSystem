@@ -183,9 +183,7 @@ A visual walkthrough of the Housing Rental System across all pages and dashboard
 
 **Uwizeye Magnifique**
 
-Full-Stack Software Engineer
+Software Engineer
 
-[![Email](https://img.shields.io/badge/uwizeyemagnifique@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwizeyemagnifique@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MagnifiqueUwizeye01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagnifiqueUwizeye01)
 
 </div>

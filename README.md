@@ -34,7 +34,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
 |---|---|
 | **User Authentication** | Login and registration for tenants and landlords |  
 | **Property Listings** | Landlords can add, update, or remove properties |
-| **Search & Filter** | Tenants can search houses by location, price, or size | 
+| **Search & Filter** | Tenants can search houses by location, price, or size |  
 | **Rental Management** | Dashboard for landlords to track tenants and rentals |  
 
 <br/>

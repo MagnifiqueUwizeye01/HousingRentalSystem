@@ -4,7 +4,7 @@
 
 # Housing Rental System
 
-**A full-featured web application for managing housing rentals**
+**A full-featured web application for managing housing rentals** 
 
 <br/>
 

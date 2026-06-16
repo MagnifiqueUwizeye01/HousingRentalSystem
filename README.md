@@ -28,7 +28,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
 
 --- 
 
-## 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜
+## 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜 
 
 | Feature | Description |
 |---|---|

@@ -60,7 +60,7 @@ A full-featured web application for managing housing rentals, built with HTML, C
 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 
 Install XAMPP or any PHP/MySQL server.
 

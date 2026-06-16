@@ -21,7 +21,7 @@
 ---
 
 ## 𝙰𝚋𝚘𝚞𝚝
-
+ 
 A full-featured web application for managing housing rentals, built with HTML, CSS, JavaScript, and PHP. This system provides a platform where tenants and property buyers can browse available houses/apartments and landlords can post, manage, and track their rental properties.
 
 <br/>
